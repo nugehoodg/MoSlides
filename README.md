@@ -1,17 +1,98 @@
-# moslides
+# MoSlides ✨
 
-A new Flutter project.
+**Beautiful Markdown Presentations Made Easy.**
 
-## Getting Started
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/nugehoodg/MoSlides/releases)
 
-This project is a starting point for a Flutter application.
+MoSlides is a powerful, lightweight Flutter application that allows you to create professional-quality presentations using the simple and intuitive Markdown syntax. Powered by the **MARP (Markdown Presentation Ecosystem)**, MoSlides bridges the gap between structured writing and stunning visual storytelling.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Live Markdown Preview**: See your changes in real-time as you type. Your ideas take shape instantly.
+- **MARP Integration**: Full support for MARP-compatible themes and directives.
+- **Dynamic Themes**: Choose from beautiful, pre-configured themes like `Gaia`, `Uncover`, and `Default`.
+- **High-Fidelity PDF Export**: Export your presentations to high-quality PDF files while preserving all colors, layouts, and styles.
+- **Drag & Drop Reordering**: Easily manage your slide deck by dragging slides into the perfect order.
+- **Smart Alignment**: Use custom containers (e.g., `::: center`) to perfectly align your content.
+- **Mobile & Web Ready**: Built with Flutter for a seamless experience across platforms.
+- **Customizable Layouts**: Adjust font sizes and slide dimensions (e.g., 16:9, 4:3) on the fly.
+
+---
+
+## 📸 Screenshots
+
+> [!NOTE]
+> Add your project screenshots to the `assets/screenshots/` directory and update the links below to showcase your app!
+
+| Home Screen | Slide Editor | Live Preview |
+| :---: | :---: | :---: |
+| ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Editor](https://via.placeholder.com/300x600?text=Slide+Editor) | ![Preview](https://via.placeholder.com/300x600?text=Live+Preview) |
+
+| PDF Export | Theme Selection |
+| :---: | :---: |
+| ![Export](https://via.placeholder.com/600x300?text=High+Fidelity+PDF+Export) | ![Themes](https://via.placeholder.com/600x300?text=Theme+Selector) |
+
+---
+
+## 🛠️ Technology Stack
+
+- **Framework**: [Flutter](https://flutter.dev/) (3.0+)
+- **Presentation Engine**: [MARP](https://marp.app/)
+- **State Management**: [Provider](https://pub.dev/packages/provider)
+- **PDF Engine**: [Printing](https://pub.dev/packages/printing) & [pdf](https://pub.dev/packages/pdf)
+- **WebView**: [webview_flutter](https://pub.dev/packages/webview_flutter)
+- **Icons**: [Cupertino Icons](https://pub.dev/packages/cupertino_icons)
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK Installed ([Installation Guide](https://docs.flutter.dev/get-started/install))
+- A mobile device or emulator
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/moslides.git
+   cd moslides
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📖 Usage
+
+1. **Create**: Open the app and start a new presentation.
+2. **Write**: Use Markdown to write your content. Use `---` to separate slides.
+3. **Style**: Use the toolbar to change themes, font sizes, or alignments.
+4. **Export**: Click the Export icon to generate a PDF of your presentation.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙌 Contributing
+
+Contributions are welcome! If you have a feature request or found a bug, please open an issue or submit a pull request.
+
+---
+
+<p align="center">Made with ❤️ for presenters everywhere.</p>
