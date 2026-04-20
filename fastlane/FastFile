@@ -1,0 +1,8 @@
+default_platform(:android)
+
+platform :android do
+  desc "Metadata only for F-Droid"
+  lane :metadata do
+    puts "Metadata prepared for F-Droid"
+  end
+end

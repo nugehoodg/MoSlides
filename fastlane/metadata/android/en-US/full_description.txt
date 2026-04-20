@@ -1,0 +1,22 @@
+MoSlides is a lightweight and powerful presentation app that lets you create professional slides using Markdown.
+
+Designed for simplicity and speed, MoSlides removes the complexity of traditional presentation tools and focuses on what matters most: your content.
+
+✨ Features:
+- Write slides using clean Markdown syntax
+- Real-time preview of your presentation
+- Powered by MARP (Markdown Presentation Ecosystem)
+- Export presentations to PDF
+- Minimal and distraction-free interface
+- Customizeable slides theme
+- Customizeable slides size
+- Customizeable slides font size
+
+🎯 Perfect for:
+- Students and educators
+- Developers and technical speakers
+- Anyone who prefers writing over dragging UI elements
+
+MoSlides is fully open-source and respects your privacy. No ads, no tracking, just a clean experience.
+
+Start writing your next presentation with ease.

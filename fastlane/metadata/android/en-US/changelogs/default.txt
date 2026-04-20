@@ -1,0 +1,9 @@
+Initial release of MoSlides.
+
+- Markdown-based slide editor
+- Live preview feature
+- Export to PDF
+- Clean and minimal UI
+- Customizeable slides theme
+- Customizeable slides size
+- Customizeable slides font size
