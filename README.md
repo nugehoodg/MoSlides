@@ -57,7 +57,7 @@ Take a look at MoSlides in action:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/moslides.git
+   git clone https://github.com/nugehoodg/moslides.git
    cd moslides
    ```
 
