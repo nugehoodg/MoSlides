@@ -1,5 +1,11 @@
 # MoSlides ✨
 
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![License](https://img.shields.io/badge/License-GPL-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-orange)
+
 **Beautiful Markdown Presentations Made Easy.**
 
 [![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/nugehoodg/MoSlides/releases)
